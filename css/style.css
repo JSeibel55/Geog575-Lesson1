@@ -1,0 +1,8 @@
+/* Stylesheet by Josh Seibel, 2020 */
+
+#mydiv {
+  background-color: red;
+  width: 80%;
+  margin: 0 auto;
+  height: 100px;
+}
